@@ -1,0 +1,28 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 2rem;
+  color:black;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  
+}
+
+img {
+  width: 70%;
+}
+
+
